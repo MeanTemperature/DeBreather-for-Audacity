@@ -187,6 +187,11 @@ Built collaboratively by [MeanTemperature](https://github.com/MeanTemperature) (
 
 The core spectral detection insight - *"anything with sustained absence of both upper-band detail and lower-band voicing is likely a breath or pause"* - came from staring at spectrograms while drinking tea.
 
+## Support the project
+If this plugin saves you hours of tedious editing, consider buying me a coffee! It helps keep the open-source tools coming. 
+
+☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/meantemperature)**
+
 ## License
 
 GPL v2 or later. Free to use, modify, and distribute.
