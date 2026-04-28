@@ -28,6 +28,9 @@ Recommended workflow: run **Detect** first with default settings, look at the la
 
 ## Examples
 
+🎧 **[Listen to the Raw Audio](examples/sample-raw.wav)**
+🎧 **[Listen to the Processed Audio](examples/sample-post-debreath.wav)**
+
 **De-Breather Detect** in action - six breaths cleanly marked as labels on a real voiceover recording. Non-destructive: review and adjust before committing.
 
 <img src="examples/sample-debreath-detect.png" width="800">
