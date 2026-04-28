@@ -1,6 +1,10 @@
 # De-Breather for Audacity
 
-A pair of free Nyquist plugins that detect breath sounds in spoken-word recordings and reduce their volume - without removing them entirely. Spend less time editing, keep the natural rhythm of speech.
+![GitHub Release](https://img.shields.io/github/v/release/MeanTemperature/DeBreather-for-Audacity)
+![License](https://img.shields.io/github/license/MeanTemperature/DeBreather-for-Audacity)
+![Audacity Version](https://img.shields.io/badge/Audacity-3.2%2B-blue)
+
+A free Nyquist plugin that detects breath sounds in spoken-word recordings and reduces their volume — without removing them entirely. Spend less time editing, keep the natural rhythm of speech.
 
 ## Where this fits in your post-production
 
@@ -185,9 +189,10 @@ The core spectral detection insight - *"anything with sustained absence of both 
 GPL v2 or later. Free to use, modify, and distribute.
 
 ## Feedback and contributions
+This project is fully open-source, and contributions are welcome! 
 
-- **Bug reports**: Open an issue on this repo
-- **Feature ideas**: Open an issue or PR
-- **Sharing settings that work for your voice/mic**: Add to a discussion thread
+Please read our [Contributing Guide](CONTRIBUTING.md) to see how you can help out—whether that's submitting bug reports, optimizing the code, or sharing the perfect settings for your specific microphone.
+
+---
 
 If you make videos or podcasts and this saves you time, that's the whole point. Tell a friend.
