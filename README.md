@@ -1,7 +1,7 @@
 # De-Breather for Audacity
 
 ![GitHub Release](https://img.shields.io/github/v/release/MeanTemperature/DeBreather-for-Audacity)
-![License](https://img.shields.io/github/license/MeanTemperature/DeBreather-for-Audacity)
+![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
 ![Audacity Version](https://img.shields.io/badge/Audacity-3.2%2B-blue)
 
 A free Nyquist plugin that detects breath sounds in spoken-word recordings and reduces their volume — without removing them entirely. Spend less time editing, keep the natural rhythm of speech.
